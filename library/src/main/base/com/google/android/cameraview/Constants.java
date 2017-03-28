@@ -32,4 +32,6 @@ interface Constants {
 
     int LANDSCAPE_90 = 90;
     int LANDSCAPE_270 = 270;
+
+    Size MAX_SIZE = new Size(1024,768);
 }
